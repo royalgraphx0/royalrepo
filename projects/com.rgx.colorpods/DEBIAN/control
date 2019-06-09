@@ -6,5 +6,5 @@ Architecture: iphoneos-arm
 Description: ColorPods! Select from the iPhone XR Colors!
 Maintainer: RoyalGraphX
 Author: RoyalGraphX
-SileoDepiction: https://repo.dynastic.co/sileo-depiction/68292503631036416/
+SileoDepiction: https://raw.githubusercontent.com/royalgraphx0/royalrepo/master/depictions/colorpods/depiction.json
 Section: AirPort - Custom Animations
