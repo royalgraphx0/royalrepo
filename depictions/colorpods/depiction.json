@@ -26,19 +26,19 @@
                     "itemSize": "{160, 275.41333333333336}",
                     "screenshots": [
                         {
-                            "url": "https://raw.githubusercontent.com/royalgraphx0/sileo/master/depictions/colorpods/screenshots/black.png",
+                            "url": "https://raw.githubusercontent.com/royalgraphx0/royalrepo/master/depictions/colorpods/screenshots/black.png",
                             "accessibilityText": "Screenshot0"
                         },
                         {
-                            "url": "https://raw.githubusercontent.com/royalgraphx0/sileo/master/depictions/colorpods/screenshots/blue.png",
+                            "url": "https://raw.githubusercontent.com/royalgraphx0/royalrepo/master/depictions/colorpods/screenshots/blue.png",
                             "accessibilityText": "Screenshot1"
                         },
                         {
-                            "url": "https://raw.githubusercontent.com/royalgraphx0/sileo/master/depictions/colorpods/screenshots/coral.png",
+                            "url": "https://raw.githubusercontent.com/royalgraphx0/royalrepo/master/depictions/colorpods/screenshots/coral.png",
                             "accessibilityText": "Screenshot2"
                         },
                         {
-                            "url": "https://raw.githubusercontent.com/royalgraphx0/sileo/master/depictions/colorpods/screenshots/yellow.png",
+                            "url": "https://raw.githubusercontent.com/royalgraphx0/royalrepo/master/depictions/colorpods/screenshots/yellow.png",
                             "accessibilityText": "Screenshot3"
                         }
                     ]
@@ -86,4 +86,4 @@
             "class": "DepictionStackView"
         }
     ],
-    "headerImage": "https://raw.githubusercontent.com/royalgraphx0/sileo/master/depictions/colorpods/header.png"
+    "headerImage": "https://raw.githubusercontent.com/royalgraphx0/royalrepo/master/depictions/colorpods/header.png"
