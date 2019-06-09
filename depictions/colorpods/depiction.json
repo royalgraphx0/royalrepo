@@ -7,13 +7,13 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "ColorPods,forXR.",
+                    "title": "What is this?",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "useSpacing": true,
-                    "markdown": "ColorPods, the XR pack.",
+                    "markdown": "ColorPods, the XR inspired pack.",
                     "class": "DepictionMarkdownView"
                 },
                 {
