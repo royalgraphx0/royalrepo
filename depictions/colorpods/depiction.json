@@ -7,7 +7,7 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "ColorPods",
+                    "title": "ColorPods,forXR.",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
@@ -87,3 +87,4 @@
         }
     ],
     "headerImage": "https://raw.githubusercontent.com/royalgraphx0/royalrepo/master/depictions/colorpods/header.png"
+}
