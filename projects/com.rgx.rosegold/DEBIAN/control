@@ -1,0 +1,9 @@
+Package: com.rgx.rosegold
+Name: Rose Gold AirPods (AirPort Animation)
+Depends: firmware (>= 11.0), com.boo.airport
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Match your AirPods with your rose gold iPhone!
+Maintainer: RoyalGraphX
+Author: RoyalGraphX
+Section: AirPort - Custom Animations

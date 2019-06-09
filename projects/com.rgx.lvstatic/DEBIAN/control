@@ -1,0 +1,9 @@
+Package: com.rgx.lvstatic
+Name: Louis Vuitton Static (AirPort Animation)
+Depends: firmware (>= 11.0), com.boo.airport
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Once I finish the 3D model, for now use this :P
+Maintainer: RoyalGraphX
+Author: RoyalGraphX
+Section: AirPort - Custom Animations

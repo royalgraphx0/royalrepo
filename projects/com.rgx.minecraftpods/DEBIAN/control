@@ -1,0 +1,9 @@
+Package: com.rgx.minecraftpods
+Name: Minecraft AirPods (AirPort Animation)
+Depends: firmware (>= 11.0), com.boo.airport
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Simple 10 Year Anniversary celebration of Minecraft.
+Maintainer: RoyalGraphX
+Author: RoyalGraphX
+Section: AirPort - Custom Animations

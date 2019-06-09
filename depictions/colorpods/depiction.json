@@ -1,0 +1,89 @@
+{
+    "tintColor": "#0657bb",
+    "minVersion": "0.1",
+    "class": "DepictionTabView",
+    "tabs": [
+        {
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "ColorPods",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "useSpacing": true,
+                    "markdown": "ColorPods, the XR pack.",
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6,
+                    "itemSize": "{160, 275.41333333333336}",
+                    "screenshots": [
+                        {
+                            "url": "https://raw.githubusercontent.com/royalgraphx0/sileo/master/depictions/colorpods/screenshots/black.png",
+                            "accessibilityText": "Screenshot0"
+                        },
+                        {
+                            "url": "https://raw.githubusercontent.com/royalgraphx0/sileo/master/depictions/colorpods/screenshots/blue.png",
+                            "accessibilityText": "Screenshot1"
+                        },
+                        {
+                            "url": "https://raw.githubusercontent.com/royalgraphx0/sileo/master/depictions/colorpods/screenshots/coral.png",
+                            "accessibilityText": "Screenshot2"
+                        },
+                        {
+                            "url": "https://raw.githubusercontent.com/royalgraphx0/sileo/master/depictions/colorpods/screenshots/yellow.png",
+                            "accessibilityText": "Screenshot3"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "title": "markdown-description",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "markdown": "Introducing ColorPods! you can now mix and match your AirPods with your shiny new XR! enjoy Black, Blue, Coral, and Yellow AirPods!"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title": "Version",
+                    "text": "1.0",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2019",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "RoyalGraphX",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "tabname": "Details",
+            "class": "DepictionStackView"
+        }
+    ],
+    "headerImage": "https://raw.githubusercontent.com/royalgraphx0/sileo/master/depictions/colorpods/header.png"

@@ -1,0 +1,43 @@
+{
+   "class":"FeaturedBannersView",
+   "itemSize":"{263, 148}",
+   "itemCornerRadius":10,
+   "banners":[
+     {
+        "url":"https://raw.githubusercontent.com/royalgraphx0/sileo/master/featured/cylinder.png",
+        "title":"Cylinder for A12",
+        "package":"com.rgx.cylinder12",
+        "hideShadow":false
+     },
+     {
+        "url":"https://raw.githubusercontent.com/royalgraphx0/sileo/master/featured/colorpods.png",
+        "title":"ColorPods",
+        "package":"com.rgx.colorpods",
+        "hideShadow":false
+     },
+     {
+        "url":"https://media.githubusercontent.com/media/royalgraphx0/sileo/master/featured/digital.png",
+        "title":"Digital AirPods",
+        "package":"com.rgx.digital",
+        "hideShadow":false
+     },
+     {
+        "url":"https://raw.githubusercontent.com/royalgraphx0/sileo/master/featured/rosegold.png",
+        "title":"Rose Gold AirPods",
+        "package":"com.rgx.rosegold",
+        "hideShadow":false
+     },
+      {
+         "url":"https://raw.githubusercontent.com/royalgraphx0/sileo/master/featured/LV.png",
+         "title":"LV AirPods",
+         "package":"com.rgx.lvstatic",
+         "hideShadow":false
+      },
+      {
+         "url":"https://raw.githubusercontent.com/royalgraphx0/sileo/master/featured/minecraft.png",
+         "title":"Minecraft AirPods",
+         "package":"com.rgx.minecraftpods",
+         "hideShadow":false
+      },
+   ]
+}

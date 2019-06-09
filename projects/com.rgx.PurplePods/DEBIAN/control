@@ -1,0 +1,9 @@
+Package: com.rgx.purplepods
+Name: PurplePods (AirPort Animation)
+Depends: firmware (>= 11.0), com.boo.airport
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Testing for Dark Mode & Such
+Maintainer: RoyalGraphX
+Author: RoyalGraphX
+Section: AirPort - Dark Mode

@@ -1,0 +1,9 @@
+Package: com.rgx.digital
+Name: Digital AirPods (AirPort Animation)
+Depends: firmware (>= 11.0), com.boo.airport
+Version: 1.0
+Architecture: iphoneos-arm
+Description: AV Styled AirPods.
+Maintainer: RoyalGraphX
+Author: RoyalGraphX
+Section: AirPort - Custom Animations

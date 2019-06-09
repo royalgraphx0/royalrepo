@@ -1,0 +1,10 @@
+Package: com.rgx.colorpods
+Name: ColorPods (AirPort Animation Pack)
+Depends: firmware (>= 11.0), com.boo.airport
+Version: 1.0
+Architecture: iphoneos-arm
+Description: ColorPods! Select from the iPhone XR Colors!
+Maintainer: RoyalGraphX
+Author: RoyalGraphX
+Section: AirPort - Custom Animations
+SileoDepiction: https://raw.githubusercontent.com/royalgraphx0/sileo/master/depictions/colorpods/depiction.json
