@@ -7,3 +7,4 @@ dpkg-deb -bZgzip projects/com.rgx.digital debs
 dpkg-deb -bZgzip projects/com.rgx.ghostpods debs
 dpkg-deb -bZgzip projects/com.rgx.rosegold debs
 dpkg-deb -bZgzip projects/com.rgx.purplepods debs
+dpkg-deb -bZgzip projects/com.rgx.anapods debs
