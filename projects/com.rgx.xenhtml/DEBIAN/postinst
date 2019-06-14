@@ -1,0 +1,53 @@
+#!/bin/bash
+
+echo "===================================="
+echo "Fixing widget permissions if needed..."
+chown -R mobile:mobile /var/mobile/Library/LockHTML 2>&1
+chown -R mobile:mobile /var/mobile/Library/SBHTML 2>&1
+chown -R mobile:mobile /var/mobile/Library/iWidgets 2>&1
+
+chmod -R 0755 /var/mobile/Library/LockHTML 2>&1
+chmod -R 0755 /var/mobile/Library/SBHTML 2>&1
+chmod -R 0755 /var/mobile/Library/iWidgets 2>&1
+echo "Fixed permissions."
+echo "Re-install Xen HTML if you experience the 'fix permissions' alert when changing widget settings."
+
+# Add symlinks
+ln -s "/var/mobile/Library/LockHTML/Background | Kaleidoscope" "/var/mobile/Library/SBHTML/Background | Kaleidoscope"
+ln -s "/var/mobile/Library/LockHTML/Background | Particles" "/var/mobile/Library/SBHTML/Background | Particles"
+
+# Add to the .list file
+echo "/var/mobile/Library/SBHTML/Background | Kaleidoscope" >> /var/lib/dpkg/info/com.matchstic.xenhtml.list
+echo "/var/mobile/Library/SBHTML/Background | Particles" >> /var/lib/dpkg/info/com.matchstic.xenhtml.list
+
+echo "	"
+echo "===================================="
+echo "With credits to:"
+echo "bliken, King_O_Hill, RKO1195, a1p1n3"
+echo "krima, rasputin007, NewdestinyX"
+echo "orangefreddie, simon, BootsBrown"
+echo "chevymusclecar, mamajaay, martymcfly"
+echo "meth357, GroovyCarrot, Jato_BZ"
+echo "ev_ynw, junesiphone, dubailive"
+echo "... and many more!"
+echo "===================================="
+echo "Translations by:"
+echo "Anniem -- Français"
+echo "Tito12 -- עִברִית"
+echo "Kr1stat0s -- Español"
+echo "D-Shin -- Deutsche"
+echo "BuufJuiced -- Nederlands"
+echo "@Liaaliooo -- Indonesia"
+echo "AntmanAvengers -- Malay"
+echo "DJLeleX -- Italiano"
+echo "michaellee9001 -- 中文"
+echo "iAzaleea -- Ελληνικά"
+echo "iA7med -- عربى"
+echo "@maaebna -- русский"
+echo "Lucas (@lucaspedrrosa) -- Português"
+echo "serif61 -- Türk"
+echo "===================================="
+echo "	"
+echo "It's been a damn good run."
+echo "Thank you, to all."
+echo "RGX RGX RGX RGX RGX RGX RGX RGX RGX RGX RGX"
