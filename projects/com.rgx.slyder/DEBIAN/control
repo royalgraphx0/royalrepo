@@ -1,0 +1,9 @@
+Package: com.rgx.slyder
+Name: Sylder
+Version: 1.0~beta1
+Architecture: iphoneos-arm
+Author: RoyalGraphX <royalgraphx0@gmail.com.>
+SileoDepiction:
+Section: Themes
+Description: Slyder is a clean, simple theme for iOS!
+Maintainer: RoyalGraphX <royalgraphx0@gmail.com>
