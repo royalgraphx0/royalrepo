@@ -9,4 +9,4 @@ dpkg-deb -bZgzip projects/com.rgx.rosegold debs
 dpkg-deb -bZgzip projects/com.rgx.purplepods debs
 dpkg-deb -bZgzip projects/com.rgx.anapods debs
 dpkg-deb -bZgzip projects/com.rgx.xenhtml debs
-dpkg-deb -bZgzip projects/com.rgx.3dbundleid debs
+dpkg-deb -bZgzip projects/com.rgx.twig debs
