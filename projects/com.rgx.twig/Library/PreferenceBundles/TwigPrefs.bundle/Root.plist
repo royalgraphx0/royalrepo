@@ -45,6 +45,11 @@
 			<string>PSGroupCell</string>
 			<key>label</key>
 			<string>Options</string>
+			<key>footerText</key>
+			<string>Due to the changes, not all of these options work or function correctly.
+Look out for a future update!</string>
+			<key>isStaticText</key>
+			<true/>
 		</dict>
 		<dict>
 			<key>cell</key>
@@ -80,8 +85,17 @@
 			<key>key</key>
 			<string>inverted</string>
 			<key>label</key>
-			<string>Inverted Placement</string>
+			<string>Inverted Placement 🔄</string>
 		</dict>
+		<dict>
+	<key>cell</key>
+	<string>PSGroupCell</string>
+	<key>footerText</key>
+	<string>Twig by Andrew Wiik
+Twig for iOS 11+ by RoyalGraphX</string>
+	<key>isStaticText</key>
+	<true/>
+</dict>
 	</array>
 	<key>title</key>
 	<string>Twig</string>

@@ -1,10 +1,11 @@
 Package: com.rgx.twig
 Name: Twig
-Depends: mobilesubstrate
+Depends: mobilesubstrate, firmware (>= 11.0)
 Architecture: iphoneos-arm
-Description: Add some Weather to your iOS 12 Lockscreen!
+Description: Add some Weather to your iOS 11/12 Lockscreen!
 Maintainer: RoyalGraphX
-Author: iOS Creatix
+Author: RoyalGraphX
 Section: Tweaks
-Version: 2.0.0-23+debug
+SileoDepiction: https://raw.githubusercontent.com/royalgraphx0/royalrepo/master/depictions/twig/depiction.json
+Version: 2.0.0-34+debug
 Installed-Size: 484
