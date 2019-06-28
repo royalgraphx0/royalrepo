@@ -7,5 +7,6 @@ Maintainer: RoyalGraphX
 Author: RoyalGraphX
 Section: Tweaks
 SileoDepiction: https://raw.githubusercontent.com/royalgraphx0/royalrepo/master/depictions/twig/depiction.json
-Version: 2.0.0-34+debug
+Icon: file:///Library/PreferenceBundles/TwigPrefs.bundle/TwigIcon@2x.png
+Version: 2.0.0-35+debug
 Installed-Size: 484
