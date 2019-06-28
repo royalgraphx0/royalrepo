@@ -10,6 +10,12 @@
         "hideShadow":false
      },
      {
+        "url":"https://raw.githubusercontent.com/royalgraphx0/royalrepo/master/featured/twig.png",
+        "title":"Twig 2",
+        "package":"com.rgx.twig",
+        "hideShadow":false
+     },
+     {
         "url":"https://raw.githubusercontent.com/royalgraphx0/royalrepo/master/featured/colorpods.png",
         "title":"ColorPods",
         "package":"com.rgx.colorpods",
