@@ -1,0 +1,10 @@
+Package: com.rgx.respring
+Name: RGX Logo Respring
+Version: 1.0
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Architecture: iphoneos-arm
+Author: RoyalGraphX <royalgraphx0@gmail.com>
+SileoDepiction: https://raw.githubusercontent.com/royalgraphx0/royalrepo/master/depictions/rgxrespring/depiction.json
+Section: Resprings
+Description: Make Respringing Great Again!
+Maintainer: RoyalGraphX <royalgraphx0@gmail.com>
