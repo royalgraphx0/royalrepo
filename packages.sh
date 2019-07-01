@@ -10,4 +10,4 @@ dpkg-deb -bZgzip projects/com.rgx.purplepods debs
 dpkg-deb -bZgzip projects/com.rgx.anapods debs
 dpkg-deb -bZgzip projects/com.rgx.xenhtml debs
 dpkg-deb -bZgzip projects/com.rgx.twig debs
-dpkg-deb -bZgzip projects/com.rgx/13hud debs
+dpkg-deb -bZgzip projects/com.rgx.13hud debs
