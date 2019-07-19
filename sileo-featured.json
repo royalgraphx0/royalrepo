@@ -10,6 +10,12 @@
         "hideShadow":false
      },
      {
+        "url":"https://raw.githubusercontent.com/royalgraphx0/royalrepo/master/featured/3dbundleid.png",
+        "title":"3DBundleID",
+        "package":"com.rgx.3dbundleid",
+        "hideShadow":false
+     },
+     {
         "url":"https://raw.githubusercontent.com/royalgraphx0/royalrepo/master/featured/twig.png",
         "title":"Twig",
         "package":"com.rgx.twig",

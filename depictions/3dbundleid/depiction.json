@@ -1,0 +1,106 @@
+{
+    "class": "DepictionTabView",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "Details",
+            "views": [
+                {
+                    "useBoldText": true,
+                    "title": "3DBundleID",
+                    "class": "DepictionSubheaderView",
+                    "useBottomMargin": false
+                },
+                {
+                    "useSpacing": true,
+                    "markdown": "3DBundleID",
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "itemSize": "{160, 275.41333333333336}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://github.com/royalgraphx0/royalrepo/raw/master/depictions/3dbundleid/screenshots/1.PNG"
+                        },
+                        {
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://github.com/royalgraphx0/royalrepo/raw/master/depictions/3dbundleid/screenshots/2.PNG"
+                        },
+                        {
+                            "accessibilityText": "Screenshot2",
+                            "url": "https://github.com/royalgraphx0/royalrepo/raw/master/depictions/3dbundleid/screenshots/3.PNG"
+                        },
+                        {
+                            "accessibilityText": "Screenshot3",
+                            "url": "https://github.com/royalgraphx0/royalrepo/raw/master/depictions/3dbundleid/screenshots/4.PNG"
+                        },
+                        {
+                            "accessibilityText": "Screenshot4",
+                            "url": "https://github.com/royalgraphx0/royalrepo/raw/master/depictions/3dbundleid/screenshots/5.PNG"
+                        },
+                        {
+                            "accessibilityText": "Screenshot5",
+                            "url": "https://github.com/royalgraphx0/royalrepo/raw/master/depictions/3dbundleid/screenshots/6.PNG"
+                        },
+                        {
+                            "accessibilityText": "Screenshot6",
+                            "url": "https://github.com/royalgraphx0/royalrepo/raw/master/depictions/3dbundleid/screenshots/7.PNG"
+                        },
+                        {
+                            "accessibilityText": "Screenshot7",
+                            "url": ""
+                        }
+                    ],
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6
+                },
+                {
+                    "useBoldText": true,
+                    "markdown": "This tweak is targeted for themers and developers alike! 3D Touch an application to get it's bundle identifier displayed as an entry in the quick actions!",
+                    "title": "markdown-description",
+                    "class": "DepictionMarkdownView",
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Version",
+                    "text": "1.0.0"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Released",
+                    "text": "07-19-2019"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Price",
+                    "text": "Free"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Developer",
+                    "text": "RoyalGraphX"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ]
+        }
+    ],
+    "minVersion": "0.1",
+    "headerImage": "https://github.com/royalgraphx0/royalrepo/raw/master/depictions/3dbundleid/header.png",
+    "tintColor": "#5b10a5"
+}
