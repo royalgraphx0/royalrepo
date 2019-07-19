@@ -1,0 +1,10 @@
+Package: com.rgx.3dbundleid
+Name: 3DBundleID
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Display's an Applications Bundle Identifier in the 3D Touch Menu.
+Maintainer: RoyalGraphX
+Author: RoyalGraphX
+Section: Tweaks
+Version: 0.0.1-45+debug
+Installed-Size: 120
