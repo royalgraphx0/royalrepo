@@ -1,0 +1,9 @@
+Package: com.rgx.sbew98bundle
+Name: SBEW98 Bundle
+Depends: firmware (>= 11.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: SBEW98 Bundle
+Maintainer: RoyalGraphX
+Author: RoyalGraphX
+Section: XenHTML SBHTML
