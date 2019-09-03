@@ -16,6 +16,12 @@
         "hideShadow":false
      },
      {
+        "url":"https://raw.githubusercontent.com/royalgraphx0/royalrepo/master/featured/sbew98bundle.png",
+        "title":"SBEW98",
+        "package":"com.rgx.sbew98bundle",
+        "hideShadow":false
+     },
+     {
         "url":"https://raw.githubusercontent.com/royalgraphx0/royalrepo/master/featured/twig.png",
         "title":"Twig",
         "package":"com.rgx.twig",

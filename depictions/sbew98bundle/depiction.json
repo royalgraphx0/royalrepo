@@ -1,0 +1,82 @@
+{
+    "tintColor": "#5b10a5",
+    "minVersion": "0.1",
+    "class": "DepictionTabView",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "Details",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "title": "SBEW98Bundle",
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "useSpacing": true,
+                    "markdown": "Thank you @ev_ynw"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://github.com/royalgraphx0/royalrepo/raw/master/depictions/sbew98bundle/screenshots/dark.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://github.com/royalgraphx0/royalrepo/raw/master/depictions/sbew98bundle/screenshots/light.png"
+                        }
+                    ],
+                    "class": "DepictionScreenshotsView",
+                    "itemSize": "{160, 275.41333333333336}",
+                    "itemCornerRadius": 6
+                },
+                {
+                    "markdown": "SB EW98, Original and Dark Mode now exclusively on A RoyalRepo! Apply either one of these in XenHTML's HomeScreen tab. Thank you for downloading!",
+                    "class": "DepictionMarkdownView",
+                    "useBoldText": true,
+                    "title": "markdown-description",
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "1.0..0",
+                    "class": "DepictionTableTextView",
+                    "title": "Version"
+                },
+                {
+                    "text": "09-03-2019",
+                    "class": "DepictionTableTextView",
+                    "title": "Released"
+                },
+                {
+                    "text": "Free",
+                    "class": "DepictionTableTextView",
+                    "title": "Price"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "text": "RoyalGraphX",
+                    "class": "DepictionTableTextView",
+                    "title": "Developer"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                }
+            ]
+        }
+    ],
+    "headerImage": "https://github.com/royalgraphx0/royalrepo/raw/master/depictions/sbew98bundle/header.png"
+}
