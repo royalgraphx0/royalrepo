@@ -4,6 +4,12 @@
    "itemCornerRadius":10,
    "banners":[
      {
+        "url":"https://raw.githubusercontent.com/royalgraphx0/royalrepo/master/featured/sbew98bundle.png",
+        "title":"SBEW98",
+        "package":"com.rgx.sbew98bundle",
+        "hideShadow":false
+     },
+     {
         "url":"https://raw.githubusercontent.com/royalgraphx0/royalrepo/master/featured/cylinder.png",
         "title":"Cylinder for A12",
         "package":"com.rgx.cylinder12",
@@ -13,12 +19,6 @@
         "url":"https://raw.githubusercontent.com/royalgraphx0/royalrepo/master/featured/3dbundleid.png",
         "title":"3DBundleID",
         "package":"com.rgx.3dbundleid",
-        "hideShadow":false
-     },
-     {
-        "url":"https://raw.githubusercontent.com/royalgraphx0/royalrepo/master/featured/sbew98bundle.png",
-        "title":"SBEW98",
-        "package":"com.rgx.sbew98bundle",
         "hideShadow":false
      },
      {
