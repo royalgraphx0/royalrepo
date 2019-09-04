@@ -76,7 +76,25 @@
                     "spacing": 8
                 }
             ]
-        }
+        },
+        {
+         "tabname": "Changelog",
+         "class": "DepictionStackView",
+         "tintColor": "#5b10a5",
+         "views": [
+            {
+               "class": "DepictionSubheaderView",
+               "useBoldText": true,
+               "useBottomMargin": false,
+               "title": "1.0"
+            },
+            {
+               "class": "DepictionMarkdownView",
+               "markdown": "<ul>\n<li>Version Changes<\/li>\n<\/ul>",
+               "useRawFormat": true
+            }
+         ]
+      }
     ],
     "headerImage": "https://github.com/royalgraphx0/royalrepo/raw/master/depictions/sbew98bundle/header.png"
 }
