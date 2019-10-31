@@ -1,4 +1,4 @@
-Package: com.rgx.anapods
+Package: com.rgx.propods
 Name: AirPods Pro (AirPort Animation)
 Depends: firmware (>= 11.0), com.boo.airport
 Version: 1.0
