@@ -6,4 +6,5 @@ Architecture: iphoneos-arm
 Description: Title says it all.
 Maintainer: RoyalGraphX
 Author: RoyalGraphX
+Icon: file:///Library/RGX/logo.png
 Section: AirPort - Custom Animations
