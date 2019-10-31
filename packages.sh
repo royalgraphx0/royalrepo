@@ -13,3 +13,4 @@ dpkg-deb -bZgzip projects/com.rgx.twig debs
 dpkg-deb -bZgzip projects/com.rgx.3dbundleid debs
 dpkg-deb -bZgzip projects/com.rgx.spotilife debs
 dpkg-deb -bZgzip projects/com.rgx.sbew98bundle debs
+dpkg-deb -bZgzip projects/com.rgx.propods debs
