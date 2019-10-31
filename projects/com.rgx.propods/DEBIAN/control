@@ -1,10 +1,10 @@
 Package: com.rgx.propods
 Name: AirPods Pro (AirPort Animation)
 Depends: firmware (>= 11.0), com.boo.airport
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Description: Title says it all.
 Maintainer: RoyalGraphX
 Author: RoyalGraphX
-Icon: https://raw.githubusercontent.com/royalgraphx0/royalrepo/master/projects/com.rgx.propods/Library/RGX/icon.png
+Icon: file:///Library/RGX/icon.png
 Section: AirPort - Custom Animations
