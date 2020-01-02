@@ -6,9 +6,9 @@ Installed-Size: 120
 Depends: mobilesubstrate
 Filename: ./debs/com.rgx.3dbundleid_0.0.1-45+debug_iphoneos-arm.deb
 Size: 9802
-MD5sum: eaab7f4de85795186e3b67e4725a6cc0
-SHA1: c60980d2266cc4a6da9eb8c78b1ed6b128119f5c
-SHA256: 2cfac36771c1e66e467213f2221f38ee6ebb286bff2e25557022473a04decefc
+MD5sum: 0dbbc6de32c902a42a4ca266d20f7d42
+SHA1: 91e12763e4899bbef9139138290d579e45377883
+SHA256: 33e6c28b2dc47a9dc0e8c28e1eb0f37b757e474d0a2b02697b02195963754ac7
 Section: Tweaks
 Description: Display's an Applications Bundle Identifier in the 3D Touch Menu.
 Author: RoyalGraphX
@@ -22,9 +22,9 @@ Maintainer: RoyalGraphX
 Depends: firmware (>= 11.0), com.boo.airport
 Filename: ./debs/com.rgx.anapods_1.0_iphoneos-arm.deb
 Size: 4751230
-MD5sum: 7834b2cb633ee5f80b458accd06c385a
-SHA1: 41e57a30bf58a9ed52458b67bd801f9fbef6ca77
-SHA256: c19d4f57367aa522760a485a49a60f2aa1818356d825018a2f5362c72c88861c
+MD5sum: 65c5f9b032f166b4fa463d79c6eea2bb
+SHA1: 70c0e02e59fb46793c87468dea828a0dd633db07
+SHA256: c2855e9cb48413a406e4e4511d2d6b528cf366a68b8f8dc036d2769184bbf35d
 Section: AirPort - Custom Animations
 Description: Title says it all.
 Author: RoyalGraphX
@@ -37,9 +37,9 @@ Maintainer: RoyalGraphX
 Depends: firmware (>= 11.0), com.boo.airport
 Filename: ./debs/com.rgx.colorpods_1.0_iphoneos-arm.deb
 Size: 17759408
-MD5sum: e9b23e5b1a3bedd19e83fe9560dead1d
-SHA1: 3403deff490c3fba99438032272470e8d6f094be
-SHA256: abb30cbf407481c3608b1fbc3fbcb9f1dab335b1ee7c2cc973cfb88abd0cb28e
+MD5sum: 35376634eef534c5a4c8fd5a4f4e51f8
+SHA1: fda80180261b5446786313dbdb7d75afde629da2
+SHA256: 76fa8a6352fcaf306b1957b2ac175df65591115da1f42e3a788161b384545c36
 Section: AirPort - Custom Animations
 Description: ColorPods! Select from the iPhone XR Colors!
 Author: RoyalGraphX
@@ -53,9 +53,9 @@ Maintainer: RoyalGraphX <royalgraphx0@gmail.com>
 Depends: firmware (>= 3.0), mobilesubstrate (>= 0.9.6011), preferenceloader
 Filename: ./debs/com.rgx.cylinder12_1.0.7~beta1_iphoneos-arm.deb
 Size: 515594
-MD5sum: a9b0e7331406c10e2fa1b7e02aad0920
-SHA1: 98acf62f8418ece626e8b0753ded4a7ac9ddc59a
-SHA256: 9746a9d1d3117f135b923a4e5c0a6af612b8b71619a30c5d8ec5c3c84f0ebfee
+MD5sum: 2fbd7aa8000f717020519c3bf6316f67
+SHA1: 5d42caca4fa9fb4ace253137665cf4e369bfb019
+SHA256: 5e13d0961893a21ddd03974ee33cb1e42f1b0863c0bfc3cec717bc7d4e600c5a
 Section: Tweaks
 Homepage: http://github.com/rweichler/cylinder
 Description: Make your icons dance
@@ -71,9 +71,9 @@ Maintainer: RoyalGraphX
 Depends: firmware (>= 11.0), com.boo.airport
 Filename: ./debs/com.rgx.digital_1.0_iphoneos-arm.deb
 Size: 5394524
-MD5sum: 21919754bc8320bc18e1b2bdf0b84a9a
-SHA1: 2ddb34616238a5594a920eb2d0178d5f7b79eca7
-SHA256: c5aada81fc2683c7a95f043a69bb4c041fe2d3e68de894f9eb3036e3846e6d0f
+MD5sum: a8ad9bb224a93008b42f16165a8774d0
+SHA1: c2b12f0090f3e622b85742ddf9cac594ff49dcb3
+SHA256: dc396210645f6d7c374e82ce2178d0fb5b0d50efa844641cd161a1406ccfd7fc
 Section: AirPort - Custom Animations
 Description: AV Styled AirPods.
 Author: RoyalGraphX
@@ -86,9 +86,9 @@ Maintainer: RoyalGraphX
 Depends: firmware (>= 11.0), com.boo.airport
 Filename: ./debs/com.rgx.ghostpods_1.0_iphoneos-arm.deb
 Size: 5434682
-MD5sum: acc6b659ba34125fe99c69ff5b3b457c
-SHA1: d63d7fbc18386668fabb1063524a7db4875f1154
-SHA256: 71a64ee6b24d4a7fa84a77c662e696dff5adfe2378a910a4b4f7b0470e120e52
+MD5sum: 60235ddf921fff5578e1e9413f10112d
+SHA1: e57a9f030806dbc64f06581f052b96ebb9b3bd88
+SHA256: fa45240e6751044b6c4528c3647ac421174740544ba4d0725c3ec648ae783fca
 Section: AirPort - Custom Animations
 Description: Ghost Styled AirPods.
 Author: RoyalGraphX
@@ -101,9 +101,9 @@ Maintainer: RoyalGraphX
 Depends: firmware (>= 11.0), com.boo.airport
 Filename: ./debs/com.rgx.lvstatic_1.0_iphoneos-arm.deb
 Size: 130718
-MD5sum: 7cea090d75e73ccb41333693a29ad3b9
-SHA1: 4a375c43838a8c4f99b846c355b409d9853b6fb9
-SHA256: e7fc89e719db3541b5523c9628fa2c061e7970d0b9bc3b40fba68bbf3de8e44b
+MD5sum: d4fb6004c9223e59dbf4317b9bcdcb3a
+SHA1: 11bbddbb8422fe765dcdeaacae6ff332849c6f6e
+SHA256: 9dbe7cdcf9e247068a7165159f165b301ca036e7dac0b03c0e17f912e7396bc7
 Section: AirPort - Custom Animations
 Description: Once I finish the 3D model, for now use this :P
 Author: RoyalGraphX
@@ -116,9 +116,9 @@ Maintainer: RoyalGraphX
 Depends: firmware (>= 11.0), com.boo.airport
 Filename: ./debs/com.rgx.minecraftpods_1.0_iphoneos-arm.deb
 Size: 4874976
-MD5sum: bc4d8db58a1b06c42924ca029cd51ca0
-SHA1: 849426056dcfa8609fd4e414688fc119e49498c5
-SHA256: 96b15bae3370ac9b9059348089a283ed0fb35d8da60a08592ed787b0685b77da
+MD5sum: b93da7880acad0f1989a42ccbe098b49
+SHA1: 629aa5a8753ec7a1c3f445c8d08f7dfc2e063599
+SHA256: 602e5053c95f6c84ee97ad02b9b042c67d79603d7e4de626dbf2dedeba0ae9c5
 Section: AirPort - Custom Animations
 Description: Simple 10 Year Anniversary celebration of Minecraft.
 Author: RoyalGraphX
@@ -131,9 +131,9 @@ Maintainer: RoyalGraphX
 Depends: firmware (>= 11.0), com.boo.airport
 Filename: ./debs/com.rgx.propods_1.1_iphoneos-arm.deb
 Size: 2480162
-MD5sum: 7259b8d0551f8e3819aa374d6d413bda
-SHA1: 26664cf2d676c77ca16957a6d3792ac7bd79701c
-SHA256: 26fbb69c00df0366357f9278077af220953f6479ac9274a3883668fd703bd0f1
+MD5sum: 51ed1ba5365ce8fccd053c94456b8be1
+SHA1: 90da56a9b707d28165d34ec70ae8943cb6261465
+SHA256: e80db6a565c01ad54b1009c26062acc3e297a524cb33355140c47c1acca0db0d
 Section: AirPort - Custom Animations
 Description: Title says it all.
 Author: RoyalGraphX
@@ -147,9 +147,9 @@ Maintainer: RoyalGraphX
 Depends: firmware (>= 11.0), com.boo.airport
 Filename: ./debs/com.rgx.purplepods_1.0_iphoneos-arm.deb
 Size: 4134922
-MD5sum: e586d1c107ec575a289136ae05600160
-SHA1: ff68bfeb691ba27948d698b0535731df92f5c7cf
-SHA256: 51622842ae5b298cca608b0375ebc5e651d453aa7041645c0c4b8969a4876b20
+MD5sum: b486d573572cb253b30e15b41b5a3ab5
+SHA1: df0ae4b3341c904e5cc920bf6d9e6423dcb390e3
+SHA256: 6a1bbed16e2c0eaed2d244f618797b87411edda959773fd7e625a2b771a286db
 Section: AirPort - Dark Mode
 Description: Testing for Dark Mode & Such
 Author: RoyalGraphX
@@ -162,9 +162,9 @@ Maintainer: RoyalGraphX
 Depends: firmware (>= 11.0), com.boo.airport
 Filename: ./debs/com.rgx.rosegold_1.0_iphoneos-arm.deb
 Size: 4088996
-MD5sum: fadd5598ef13c4544119f427425e6069
-SHA1: 17f6f3937741a4f26d22eeffd633c52afec0f284
-SHA256: 4aa208e771499c4f4c1dc9dce93574d2b3e20624dfc1a72586b9b3e0a685d6ce
+MD5sum: b280fa844d5b46fd1b4e10339def2578
+SHA1: cb7241bfccafbcce68e76796baba0c62f4906d4b
+SHA256: ad6bda8ee7ee2718add1a3c611e5513202f0ab07a15831f70508b7363f9dd697
 Section: AirPort - Custom Animations
 Description: Match your AirPods with your rose gold iPhone!
 Author: RoyalGraphX
@@ -177,9 +177,9 @@ Maintainer: RoyalGraphX
 Depends: firmware (>= 11.0)
 Filename: ./debs/com.rgx.sbew98bundle_1.0_iphoneos-arm.deb
 Size: 289018
-MD5sum: 93dbecf8986912ea06f8913c043f9af6
-SHA1: ff16267d18def696db9ac60f8cda7cec49b71f17
-SHA256: de934c9cf19f1f7c52162a88a405d29ecd2c6ccf77a61dd0c8e351912e18ed84
+MD5sum: 7207c995b62c21f09fc6f88525225439
+SHA1: 7e52c41bd486eb3563f0a7eeae4dee1593c3ce34
+SHA256: 8239453f775cebadd30f9d82ff948db3f912986abe2f789fe028559403fd360f
 Section: XenHTML SBHTML
 Description: SBEW98 Bundle
 Author: RoyalGraphX
@@ -194,9 +194,9 @@ Maintainer: RoyalGraphX <royalgraphx0@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debs/com.rgx.spotilife_1.0_iphoneos-arm.deb
 Size: 82884
-MD5sum: 55f09e60088ed800b7774844464d85c9
-SHA1: 183858bee3dbb1de4b0f32d4ce7924ecac118282
-SHA256: 465e85c7f8e426b00d5f369cfa342915b6b3624ba2f461baea3f2504f49cb568
+MD5sum: daadaed53b999d146912eb4f23dcfaa4
+SHA1: 9e1823ed0ccb1c170f64a391b0a57ad0888fcb4a
+SHA256: 3110307bff5e66981cdcabc8091ea403cff7925e917b1ed467342ad6d1e66cc5
 Section: Tweaks
 Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)
 Author: RoyalGraphX <royalgraphx0@gmail.com>
@@ -211,9 +211,9 @@ Installed-Size: 484
 Depends: mobilesubstrate, firmware (>= 11.0)
 Filename: ./debs/com.rgx.twig_2.0.0-35+debug_iphoneos-arm.deb
 Size: 210428
-MD5sum: 1c5b1ebbd5814abe1f1ec82b52c82839
-SHA1: c97bc896ec0767e8e8c633f22b21bddd5f1bece6
-SHA256: 98befe79a7b38e58578ab15be895b8f22a1d13eb759fcf388672c0dcffd8bac0
+MD5sum: fe537ad3ea972940b0c44991582d5ccd
+SHA1: f2939c4b9e128d3e5085edc0d6ecc1489ac8e5cf
+SHA256: 6e53cdadc907de02230e1772dca2c7c813fe3aea8c776782b69b84866ffe2794
 Section: Tweaks
 Description: Add some Weather to your iOS 11/12 Lockscreen!
 Author: RoyalGraphX
@@ -229,9 +229,9 @@ Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader, jp.ashikase.libpa
 Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml
 Filename: ./debs/com.rgx.xenhtml_0.5-2_iphoneos-arm.deb
 Size: 1543792
-MD5sum: 7a44ca34523bbe9530ea45e1f5d323d6
-SHA1: 0f9e1a831b14f118f8cacd55ccb716aab49f8d7c
-SHA256: d20bbd582467a6baabf1399998f7236063f2fef1e88cfefdf134edb437d77471
+MD5sum: 201750283034631ef755adacbec80e9e
+SHA1: eccad643119e33fc998b3f0d8148cf7d15aa34f5
+SHA256: db52ca2ecf2ecde232117307f5c7bc7240a6cd463ab80394309a820bfcbf8fc3
 Section: System
 Priority: optional
 Description: Unified HTML rendering; lockscreen and homescreen
