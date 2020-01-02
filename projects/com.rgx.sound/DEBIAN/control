@@ -6,6 +6,6 @@ Description: Enables Dev Menu, HQ Streaming, and No Ads on latest SoundCloud.
 Maintainer: Alan (RGX)
 Author: Alan (RGX)
 Section: Tweaks
-Icon: file:///Library/RGX/rgxsound.png
+Icon: https://raw.githubusercontent.com/royalgraphx0/royalrepo/master/projects/com.rgx.sound/Library/RGX/rgxsound.png
 Version: 0.0.1-1+debug
 Installed-Size: 112
