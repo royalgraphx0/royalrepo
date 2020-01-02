@@ -1,9 +1,0 @@
-Package: com.rgx.cloud
-Name: CloudGo+
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Description: Enables Dev Menu, HQ Streaming, and No Ads on latest SoundCloud.
-Maintainer: RoyalGraphX
-Author: RoyalGraphX
-Section: Tweaks
-Version: 1.0a
