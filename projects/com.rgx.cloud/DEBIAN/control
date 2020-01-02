@@ -1,0 +1,10 @@
+Package: com.rgx.sound
+Name: CloudGO+
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Enables Developer Menu, High Quality Audio streaming, No Ads, and works on the latest version!
+Maintainer: Alan (RGX)
+Author: Alan (RGX)
+Section: Tweaks
+Version: 1.0a-1+debug
+Installed-Size: 112
