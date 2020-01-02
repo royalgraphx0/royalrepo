@@ -1,0 +1,10 @@
+Package: com.rgx.lighttube
+Name: LightTube
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: THE WORLDS MOST lightweight, simple, and ad free YouTube Premium features for free!
+Maintainer: Alan (RGX)
+Author: Alan (RGX)
+Section: Tweaks
+Version: 0.0.1-4+debug
+Installed-Size: 108
