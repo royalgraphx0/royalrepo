@@ -1,5 +1,6 @@
 Package: com.homemadetoast.repofinder
 Name: RepoFinder
+Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: Jailbreak tool for finding and adding your favorite repositories
 Maintainer: HomemadeToast
