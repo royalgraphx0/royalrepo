@@ -6,6 +6,7 @@ Installed-Size: 136
 Architecture: iphoneos-arm
 Description: Display's an Applications Bundle Identifier in the Context Menu.
 SileoDepiction: https://raw.githubusercontent.com/royalgraphx0/royalrepo/master/depictions/13bundleid/depiction.json
+Depiction: https://royalgraphx0.github.io/royalrepo/depic/13BundleID/index.html
 Maintainer: RoyalGraphX
 Author: RoyalGraphX
 Section: Tweaks
