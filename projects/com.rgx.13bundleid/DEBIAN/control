@@ -4,6 +4,7 @@ Depends: mobilesubstrate
 Version: 0.0.1
 Architecture: iphoneos-arm
 Description: Display's an Applications Bundle Identifier in the Context Menu.
+SileoDepiction: https://raw.githubusercontent.com/royalgraphx0/royalrepo/master/depictions/13bundleid/depiction.json
 Maintainer: RoyalGraphX
 Author: RoyalGraphX
 Section: Tweaks
