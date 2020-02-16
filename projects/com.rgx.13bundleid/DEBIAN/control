@@ -1,0 +1,9 @@
+Package: com.rgx.13bundleid
+Name: 13BundleID
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Display's an Applications Bundle Identifier in the Context Menu.
+Maintainer: RoyalGraphX
+Author: RoyalGraphX
+Section: Tweaks
