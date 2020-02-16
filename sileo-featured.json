@@ -4,12 +4,6 @@
    "itemCornerRadius":10,
    "banners":[
      {
-        "url":"https://raw.githubusercontent.com/royalgraphx0/royalrepo/master/featured/sbew98bundle.png",
-        "title":"SBEW98",
-        "package":"com.rgx.sbew98bundle",
-        "hideShadow":false
-     },
-     {
         "url":"https://raw.githubusercontent.com/royalgraphx0/royalrepo/master/featured/13bundleid.png",
         "title":"13BundleID",
         "package":"com.rgx.13bundleid",
@@ -19,6 +13,12 @@
         "url":"https://raw.githubusercontent.com/royalgraphx0/royalrepo/master/featured/3dbundleid.png",
         "title":"3DBundleID",
         "package":"com.rgx.3dbundleid",
+        "hideShadow":false
+     },
+     {
+        "url":"https://raw.githubusercontent.com/royalgraphx0/royalrepo/master/featured/sbew98bundle.png",
+        "title":"SBEW98",
+        "package":"com.rgx.sbew98bundle",
         "hideShadow":false
      },
      {
