@@ -92,7 +92,6 @@ body>header h1 {
   line-height:44px;
   font-weight:500
 }
-
 .cydia body>header {
   display:none
 }
@@ -223,6 +222,19 @@ footer :last-child {
 
 #about {
   margin:0 15px 40px
+}
+
+.gallery {
+    width: 100%;
+    white-space: nowrap;
+    overflow-x: scroll;
+    overflow-y: hidden;
+
+}
+
+.work-modals{
+  display:inline-block;
+  width:100%
 }
 
 .cydia #about {
