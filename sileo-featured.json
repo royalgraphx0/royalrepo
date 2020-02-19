@@ -5,7 +5,7 @@
    "banners":[
      {
         "url":"https://raw.githubusercontent.com/royalgraphx0/royalrepo/master/featured/THEME.png",
-        "title":"",
+        "title":".",
         "package":"com.rgx.theme",
         "hideShadow":false
      },
