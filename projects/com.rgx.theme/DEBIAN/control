@@ -1,0 +1,12 @@
+Package: com.rgx.theme
+Name: "THEME" - Beta 1
+Depends: com.spark.snowboard , com.spark.snowboard.respringextension
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: OFF---WHITE Inspired iOS Theme titled //"THEME"// BETA 1 HAS 58 ICONS
+SileoDepiction:
+Depiction:
+Icon:
+Maintainer: RoyalGraphX
+Author: RoyalGraphX
+Section: Themes

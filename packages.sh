@@ -14,3 +14,4 @@ dpkg-deb -bZgzip projects/com.rgx.propods debs
 dpkg-deb -bZgzip projects/com.rgx.sound debs
 dpkg-deb -bZgzip projects/com.rgx.lighttube debs
 dpkg-deb -bZgzip projects/com.rgx.13bundleid debs
+dpkg-deb -bZgzip projects/com.rgx.theme debs
