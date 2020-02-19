@@ -6,7 +6,7 @@ Architecture: iphoneos-arm
 Description: OFF---WHITE Inspired iOS Theme titled //"THEME"// BETA 1 HAS 58 ICONS
 SileoDepiction:
 Depiction:
-Icon:
+Icon: https://raw.githubusercontent.com/royalgraphx0/royalrepo/master/projects/com.rgx.theme/Library/Themes/%22THEME%22.theme/Icon.png
 Maintainer: RoyalGraphX
 Author: RoyalGraphX
 Section: Themes
