@@ -3,7 +3,7 @@ Name: "THEME" - Beta 1
 Depends: com.spark.snowboard , com.spark.snowboard.respringextension
 Version: 1.0.2
 Architecture: iphoneos-arm
-Description: OFF---WHITE Inspired iOS Theme titled //"THEME"// BETA 1 HAS 58 ICONS
+Description: OFF---WHITE Inspired iOS Theme, nowhere near done, probably should only install for the respring logo, beta 1 has 77 Icons.
 SileoDepiction:
 Depiction:
 Icon: https://raw.githubusercontent.com/royalgraphx0/royalrepo/master/projects/com.rgx.theme/Library/Themes/%22THEME%22.theme/Icon.png
