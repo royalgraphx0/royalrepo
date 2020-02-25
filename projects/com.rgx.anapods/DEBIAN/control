@@ -1,9 +1,10 @@
 Package: com.rgx.anapods
-Name: Burgandy AirPods (AirPort Animation)
+Name: Burgandy AirPods (iOS 12) (AirPort Animation)
+Conflicts: com.boo.airport13
 Depends: firmware (>= 11.0), com.boo.airport
 Version: 1.0
 Architecture: iphoneos-arm
 Description: Title says it all.
 Maintainer: RoyalGraphX
 Author: RoyalGraphX
-Section: AirPort - Custom Animations
+Section: AirPort (iOS 12) - Custom Animations

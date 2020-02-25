@@ -1,9 +1,10 @@
 Package: com.rgx.ghostpods
-Name: Ghost AirPods (AirPort Animation)
+Name: Ghost AirPods (iOS 12) (AirPort Animation)
 Depends: firmware (>= 11.0), com.boo.airport
+Conflicts: com.boo.airport13
 Version: 1.0
 Architecture: iphoneos-arm
 Description: Ghost Styled AirPods.
 Maintainer: RoyalGraphX
 Author: RoyalGraphX
-Section: AirPort - Custom Animations
+Section: AirPort (iOS 12) - Custom Animations

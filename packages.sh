@@ -15,3 +15,4 @@ dpkg-deb -bZgzip projects/com.rgx.sound debs
 dpkg-deb -bZgzip projects/com.rgx.lighttube debs
 dpkg-deb -bZgzip projects/com.rgx.13bundleid debs
 dpkg-deb -bZgzip projects/com.rgx.theme debs
+dpkg-deb -bZgzip projects/com.rgx.juulpods13 debs
