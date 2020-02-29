@@ -2,8 +2,24 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>IB-MaskIcons</key>
-    			<true/>
+	<key>CalendarIconDateSettings</key>
+	<dict>
+		<key>FontSize</key>
+		<integer>25</integer>
+		<key>FontWeight</key>
+		<string>Bold</string>
+		<key>TextColor</key>
+		<string>#000000</string>
+		<key>TextYoffset</key>
+		<integer>4</integer>
+	</dict>
+	<key>CalendarIconDaySettings</key>
+	<dict>
+		<key>FontSize</key>
+		<integer>0</integer>
+	</dict>
+        <key>IB-MaskIcons</key>
+        <true/>
 	<key>PackageName</key>
 	<string>iOS'86 - iOS 13 Beta</string>
 </dict>
