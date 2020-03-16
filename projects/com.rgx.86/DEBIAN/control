@@ -1,9 +1,9 @@
 Package: com.rgx.86
 Name: iOS'86 - iOS 13 Beta
 Depends: com.spark.snowboard, com.spark.snowboard.respringextension
-Version: 1.2
+Version: 1.2.1
 Architecture: iphoneos-arm
-Description: Gives your iPhone a retro Macintosh '86' Style.
+Description: Gives your iPhone a retro Macintosh '86' Style. Follow me on Twitter for updates! @royalgraphx
 SileoDepiction:
 Depiction:
 Icon: https://github.com/royalgraphx0/royalrepo/raw/master/projects/com.rgx.86/Library/Themes/iOS'86%20Icon%20Bundle.theme/Icon.png
