@@ -4,6 +4,12 @@
    "itemCornerRadius":10,
    "banners":[
      {
+        "url":"https://raw.githubusercontent.com/royalgraphx0/royalrepo/master/featured/86.png",
+        "title":"iOS'86",
+        "package":"com.rgx.86",
+        "hideShadow":false
+     },
+     {
         "url":"https://raw.githubusercontent.com/royalgraphx0/royalrepo/master/featured/THEME.png",
         "title":".",
         "package":"com.rgx.theme",
