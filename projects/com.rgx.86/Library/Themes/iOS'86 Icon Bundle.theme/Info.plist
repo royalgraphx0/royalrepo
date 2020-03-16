@@ -9,12 +9,14 @@
 		<key>FontWeight</key>
 		<string>Bold</string>
 		<key>TextColor</key>
-		<string>#000000</string>
+		<string>#FFFFF</string>
 		<key>TextYoffset</key>
 		<integer>4</integer>
 	</dict>
 	<key>CalendarIconDaySettings</key>
 	<dict>
+		<key>FontWeight</key>
+		<string>Bold</string>
 		<key>FontSize</key>
 		<integer>0</integer>
 	</dict>
