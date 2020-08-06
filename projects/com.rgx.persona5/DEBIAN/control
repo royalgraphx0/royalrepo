@@ -1,0 +1,10 @@
+Package: com.rgx.persona5
+Name: PersonaPods (iOS 13) (AirPort Animation)
+Depends: firmware (>= 13.0), com.boo.airport13
+Conflicts: com.boo.airport
+Version: 2.0
+Architecture: iphoneos-arm
+Description: Persona 5 Styled AirPods for the tweak AirPort on iOS 13.
+Maintainer: RoyalGraphX
+Author: RoyalGraphX
+Section: AirPort (iOS 13) - Custom Animations

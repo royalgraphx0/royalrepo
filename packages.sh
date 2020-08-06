@@ -18,3 +18,4 @@ dpkg-deb -bZgzip projects/com.rgx.theme debs
 dpkg-deb -bZgzip projects/com.rgx.juulpods13 debs
 dpkg-deb -bZgzip projects/com.rgx.86 debs
 dpkg-deb -bZgzip projects/com.rgx.lbppods debs
+dpkg-deb -bZgzip projects/com.rgx.persona5 debs
