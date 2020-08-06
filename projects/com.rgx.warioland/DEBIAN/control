@@ -2,7 +2,7 @@ Package: com.rgx.warioland
 Name: Wario4Pods (iOS 13) (AirPort Animation)
 Depends: firmware (>= 13.0), com.boo.airport13
 Conflicts: com.boo.airport
-Version: 2.0
+Version: 2.1
 Architecture: iphoneos-arm
 Description: Wario Land 4 Styled AirPods for the tweak AirPort on iOS 13.
 Maintainer: RoyalGraphX
