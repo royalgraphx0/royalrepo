@@ -3,7 +3,8 @@ Name: Delta
 Depends: firmware (>= 13.0)
 Version: 1.1.2
 Architecture: iphoneos-arm
-Description: Delta for iOS
+Description: Multi-Platform Emulator by Riley Testut, Packaged for Cydia release, I was getting tired of having to resign the application so I made this easy package, no modifications have been made, this is the official GitHub IPA.
 Maintainer: RoyalGraphX
 Author: RoyalGraphX
 Section: Applications
+Icon: https://github.com/royalgraphx/royalrepo/raw/master/projects/com.rgx.delta/Applications/Delta.app/AppIcon60x60%402x.png
