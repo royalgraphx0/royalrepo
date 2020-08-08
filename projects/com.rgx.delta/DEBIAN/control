@@ -1,0 +1,9 @@
+Package: com.rgx.delta
+Name: Delta
+Depends: firmware (>= 13.0)
+Version: 1.1.2
+Architecture: iphoneos-arm
+Description: Delta for iOS
+Maintainer: RoyalGraphX
+Author: RoyalGraphX
+Section: Applications
