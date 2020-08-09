@@ -21,3 +21,4 @@ dpkg-deb -bZgzip projects/com.rgx.lbppods debs
 dpkg-deb -bZgzip projects/com.rgx.persona5 debs
 dpkg-deb -bZgzip projects/com.rgx.warioland debs
 dpkg-deb -bZgzip projects/com.rgx.delta debs
+dpkg-deb -bZgzip projects/com.rgx.sizetest debs

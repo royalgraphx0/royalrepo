@@ -1,0 +1,10 @@
+Package: com.rgx.sizetest
+Name: Size Test (iOS 13) (AirPort Animation)
+Depends: firmware (>= 13.0), com.boo.airport13
+Conflicts: com.boo.airport
+Version: 2.0
+Architecture: iphoneos-arm
+Description: Safe Area Testing for AirPort 13. Disregard.
+Maintainer: RoyalGraphX
+Author: RoyalGraphX
+Section: AirPort (iOS 13) - Custom Animations
