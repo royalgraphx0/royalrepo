@@ -1,0 +1,6 @@
+#!/bin/sh
+
+sleep 1
+echo "IconArt (2.0) has been installed."
+echo "Developed by @ronthakrar, Updated to support iOS 13."
+sleep 1

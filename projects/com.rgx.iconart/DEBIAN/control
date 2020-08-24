@@ -1,0 +1,10 @@
+Package: com.rgx.iconart
+Depends: mobilesubstrate
+Conflicts: org.thebigboss.cairo, com.fortysixandtwo.articon
+Name: IconArt
+Version: 2.0
+Architecture: iphoneos-arm
+Description: Artwork for Now Playing app's icon, Originally by Ron Thakrar <@ronthakrar>
+Maintainer: RoyalGraphX <royalgraphx0@gmail.com>
+Author: Ron Thakrar <rthakrardev@gmail.com>
+Section: Tweaks
